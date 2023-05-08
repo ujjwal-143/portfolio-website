@@ -1,0 +1,159 @@
+
+
+
+body{
+    color: #36413f;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+
+
+.topH1{
+    font-size: 45px;
+   margin: 0 auto 0 auto;
+   position: relative;
+   top: 25px;
+   font-family: 'Sacramento', cursive;
+   color: #45abab;
+}
+.educationH3{
+    font-family: 'Montserrat', sans-serif; 
+}
+.restH1{
+    font-size: 45px;
+    font-family: 'Sacramento', cursive;
+    margin-top: 10px; 
+    color: #45abab;
+}
+
+p {
+    display: block;
+    text-align: center;
+}
+
+.experience-description {
+    display: block;
+}
+
+.btn {
+    background-color: #45abab;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+.footerrestH1{
+    font-size: 45px;
+    font-family: 'Sacramento', cursive;
+    color: #45abab;
+    margin: 0px auto 0px;
+}
+h2{
+    font-family: 'Sacramento', cursive;
+    color: #45abab;
+
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+h6{
+    position: relative;
+    bottom: 20px;
+    margin: 0px;
+}
+
+.topPara{
+    
+    margin-top: 30px;
+    color: #45abab;
+    font-weight: 500;
+}
+
+
+.Top{
+    background-color: #b6f5ea; 
+    position: relative;
+    padding-top:100px ; 
+    height: 450px;
+}
+
+.top-cloud{
+    width: 140px;
+    height: 80px;
+    position: absolute;
+    right:175px;
+    top: 50px;
+}
+.bottom-cloud{
+    width: 140px;
+    height: 80px;
+    position: absolute;
+    left: 160px;
+    bottom: 280px;
+}
+
+.mountain{
+    width: 800px;
+    height: 400px;
+    position: absolute;
+    right: 0px;
+    left: 220px;
+    bottom: 0px;
+   
+}
+.profilePhoto{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    top: 25px;
+    bottom: 25px;
+}
+
+.school12{
+    position:relative;
+    right: 250px;
+    display: inline-block;
+}
+.school10{
+    position: relative;
+    left: 250px;
+    display: inline-block;
+}
+.skillImge{
+   float: left;
+}
+.skillPara{
+    display: inline-block;
+    margin-left: 5px;
+}
+.skillDiv{
+    display: inline-block;
+    margin-right: 50px;
+}
+.links{
+   margin-right: 100px;
+   position: relative;
+   bottom: 14px;
+   color: #45abab;
+}
+.links:hover{
+    color: whitesmoke;
+}
+.hr{
+    border: dotted;
+    border-color: #a9abaa;
+    border-width: 3px;
+    border-bottom: none;
+    width: 35%;
+    margin: 0 auto 0;
+}
+.footer{
+    background-color: #b6f5ea ;
+}
